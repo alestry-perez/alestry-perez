@@ -1,10 +1,11 @@
 ### Hi there, I'm Alestry 👋 
 
-###I'm a simple artist making his way through the codersverse!
+## I'm a simple artist making his way through the codersverse!
 - 🔭 I’m currently studying @ HyperIsland here in Stockholm, SE!
 - 🌱 I’m currently learning just about everything within frontend 🤣
 - 👯 I’m looking to collaborate with everyone!
 - 💬 Ask me about 42
+- 🥅 2021 Goals: nail down JS & dive deeper into the Web-Audio API!
 - 📫 How to reach me: alestry.perez@hyperisland.se
 - ⚡ Fun fact: Pre-Covid I was a traveling DJ
 
