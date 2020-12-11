@@ -1,9 +1,5 @@
-### Hi there 👋, I'm Alestry 
+### Hi there, I'm Alestry 👋 
 
-<!--
-**alestry-perez/alestry-perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ##I'm a simple artist making his way through the codersverse!
 - 🔭 I’m currently studying @ HyperIsland here in Stockholm, SE!
 - 🌱 I’m currently learning just about everything within frontend 🤣
@@ -11,7 +7,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about 42
 - 📫 How to reach me: alestry.perez@hyperisland.se
 - ⚡ Fun fact: Pre-Covid I was a traveling DJ
--->
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/chucctaylor?si=GYROo8O7Tvq6-LLumhqtvA)
@@ -46,8 +42,5 @@ Here are some ideas to get you started:
 
 </details>
 ---
-
-[website]: 
-[twitter]: 
 [instagram]: https://instagram.com/alestry.perez
 [linkedin]: https://www.linkedin.com/in/alestryperez/
