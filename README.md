@@ -1,6 +1,6 @@
 ### Hi there, I'm Alestry 👋 
 
-##I'm a simple artist making his way through the codersverse!
+###I'm a simple artist making his way through the codersverse!
 - 🔭 I’m currently studying @ HyperIsland here in Stockholm, SE!
 - 🌱 I’m currently learning just about everything within frontend 🤣
 - 👯 I’m looking to collaborate with everyone!
