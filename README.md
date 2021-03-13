@@ -10,8 +10,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alestry-perez&theme=default_icons=true)
 
-<br />
-
 ### Languages & Tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alestry-perez&layout=compact)](https://github.com/alestry-perez/github-readme-stats)
