@@ -10,10 +10,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alestry-perez&theme=default_icons=true)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/chucctaylor?si=GYROo8O7Tvq6-LLumhqtvA)
-
 ### Connect with me:
 
 <img align="left" alt="codeSTACKr | LinkedIn" width="24" height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
