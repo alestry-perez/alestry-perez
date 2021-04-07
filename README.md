@@ -8,18 +8,12 @@
 - 📫 How to reach me: alestry.perez@hyperisland.se
 - ⚡ Fun fact: Pre-Covid I was a traveling DJ
 
-<br />
-
 ### Connect with me:
 
 <img align="left" alt="codeSTACKr | LinkedIn" width="24" height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="codeSTACKr | Instagram" width="24" height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
-<br />
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alestry-perez&theme=default_icons=true)
-
-<br />
 
 ### Languages & Tools:
 
