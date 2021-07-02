@@ -2,7 +2,7 @@
 
 ## A simple complex biological lifeform of an artist making my way through the codersverse!
 - 🔭 I’m currently studying @ HyperIsland in Stockholm, SE!
-- 🌱 I’m also currently learning just about everything within frontend 🤣
+- 🌱 An aspiring FullStack Developer (*currently decypering just about everything within frontend + backend*) 🤣
 - 👯 I’m looking to collaborate with everyone!
 - 💬 Ask me about 42
 - 📫 How to reach me: alestry.perez@hyperisland.se
