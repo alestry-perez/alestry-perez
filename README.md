@@ -2,7 +2,7 @@
 
 ## 💫 A simple complex biological lifeform of an artist making my way through the codersverse!
 - 🔭 HyperIsland 22' Graduate!
-- 🌍 Currently based in Stockholm, SE!
+- 🌍 Currently based in Amsterdam, NL!
 - 🌱 An aspiring FullStack Developer!
 - 👯 I’m looking to collaborate with everyone!
 - 💬 Ask me about 42 ...
