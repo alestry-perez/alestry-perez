@@ -1,3 +1,13 @@
+# Hi there, I'm Alestry! 👋 
+
+## 💫 As an artist, I navigate the codersverse as a complex yet humble biological lifeform.
+
+- 🔭 HyperIsland 22' Graduate!
+- 🌍 Currently based in Amsterdam, NL!
+- 💬 Ask me about 42 ...
+- ⚡ Fun fact: I'm basically Batman's lesser-known cousin, working for snacks by day and dropping sick beats as a nocturnal DJ by night!
+
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/alestryp/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alestry.perez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alestryperez/)
 
